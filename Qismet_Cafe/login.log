@@ -1,0 +1,82 @@
+2025-05-17 16:53:23,155 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 16:53:23,162 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 18:04:23,359 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 18:04:23,367 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 18:05:39,581 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 18:05:39,595 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 18:06:36,945 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 18:06:36,958 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 18:35:15,975 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 18:35:16,008 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 18:54:15,098 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 18:54:15,106 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 19:11:04,940 - INFO - Launching BaristaDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 19:11:04,940 - INFO - Launched BaristaDashboard.py for role: Barista, PIN: 3456, user_id: 3
+2025-05-17 20:27:35,853 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:27:35,854 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:28:21,781 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:28:21,790 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:30:38,350 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:30:38,359 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:32:57,768 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:32:57,784 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:35:28,113 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:35:28,121 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:37:54,881 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:37:54,904 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:39:56,745 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:39:56,767 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:40:15,730 - INFO - Launching BaristaDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:40:15,749 - INFO - Launched BaristaDashboard.py for role: Barista, PIN: 3456, user_id: 3
+2025-05-17 20:40:41,632 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:40:41,650 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:42:14,484 - INFO - Launching BaristaDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:42:14,504 - INFO - Launched BaristaDashboard.py for role: Barista, PIN: 3456, user_id: 3
+2025-05-17 20:48:32,895 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:48:32,903 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 20:51:38,599 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:51:38,607 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 20:54:13,765 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 20:54:13,773 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:34:42,980 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:34:42,987 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 21:34:54,343 - INFO - Launching BaristaDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:34:54,350 - INFO - Launched BaristaDashboard.py for role: Barista, PIN: 3456, user_id: 3
+2025-05-17 21:35:03,379 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:35:03,384 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:35:47,640 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:35:47,647 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:37:22,414 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:37:22,419 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:37:42,068 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:37:42,074 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:38:17,190 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:38:17,197 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:38:33,088 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:38:33,093 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 21:38:41,429 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:38:41,435 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:38:55,935 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:38:55,941 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 21:39:00,717 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:39:00,723 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:42:39,581 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:42:39,587 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:44:52,330 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:44:52,337 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:45:14,729 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:45:14,735 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 21:45:22,811 - INFO - Launching BaristaDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:45:22,816 - INFO - Launched BaristaDashboard.py for role: Barista, PIN: 3456, user_id: 3
+2025-05-17 21:45:34,862 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:45:34,867 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:51:59,427 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:51:59,442 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 21:54:50,105 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:54:50,115 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1
+2025-05-17 21:58:03,063 - INFO - Launching MenuDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:58:03,070 - INFO - Launched MenuDashboard.py for role: Customer, PIN: 2345, user_id: 2
+2025-05-17 21:58:35,401 - INFO - Launching BaristaDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 21:58:35,403 - INFO - Launched BaristaDashboard.py for role: Barista, PIN: 3456, user_id: 3
+2025-05-17 22:02:08,248 - INFO - Launching AdminDashboard.py with C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Scripts\python.exe
+2025-05-17 22:02:08,255 - INFO - Launched AdminDashboard.py for role: Admin, PIN: 1234, user_id: 1

@@ -1,0 +1,64 @@
+2025-05-15 10:16:13,823 - ERROR - Failed to load products: 1054 (42S22): Unknown column 'm.flavors' in 'field list'
+2025-05-15 10:16:21,011 - INFO - Loaded 1 sales records
+2025-05-15 10:25:30,554 - ERROR - Failed to load products: 1054 (42S22): Unknown column 'm.flavors' in 'field list'
+2025-05-15 10:25:34,462 - INFO - Loaded 1 sales records
+2025-05-15 10:27:59,613 - ERROR - Failed to fetch products from API
+2025-05-15 12:41:43,652 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 1
+2025-05-15 12:41:43,660 - ERROR - Image load error for latte.jpg: [Errno 2] No such file or directory: 'C:\\Users\\ADMIN\\Desktop\\School Files\\PythonProjects\\Qismet_Cafe\\latte.jpg'
+2025-05-15 12:50:32,639 - DEBUG - Order type set to Dine In
+2025-05-15 12:50:32,641 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-15 12:50:42,494 - DEBUG - Order type set to Dine In
+2025-05-15 12:50:42,496 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-15 12:51:04,183 - DEBUG - Order type set to Dine In
+2025-05-15 12:51:04,185 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-15 12:53:27,382 - DEBUG - Order type set to Dine In
+2025-05-15 12:53:27,383 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-15 12:53:28,798 - DEBUG - Payment method set to Cash
+2025-05-15 12:53:57,508 - DEBUG - Order type set to Dine In
+2025-05-15 12:53:57,510 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-15 23:55:12,254 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-15 23:55:19,715 - INFO - Returning to MenuDashboard
+2025-05-16 00:18:03,976 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 00:18:13,997 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 00:18:16,166 - INFO - Returning to MenuDashboard
+2025-05-16 00:21:11,367 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 04:59:24,540 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-16 05:01:28,258 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-16 05:01:29,484 - DEBUG - Payment method set to Cash
+2025-05-16 05:01:30,750 - DEBUG - Attempting to place order
+2025-05-16 05:01:31,943 - ERROR - Cart is empty
+2025-05-16 05:01:44,143 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-16 05:09:07,366 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-16 05:10:31,545 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345
+2025-05-16 05:10:57,043 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:13:34,645 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:18:22,479 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:33:01,474 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:33:21,468 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:33:33,347 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:33:42,106 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:33:57,027 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:34:11,348 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:34:26,128 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:34:37,855 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:34:48,700 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:34:57,600 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:35:11,293 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:35:27,783 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:35:40,221 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:35:57,917 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:39:09,534 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:41:31,487 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:43:30,573 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:45:30,737 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:46:35,457 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:47:29,773 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:47:38,507 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:48:51,406 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 05:53:02,637 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 06:03:34,675 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 06:04:05,678 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 06:04:20,879 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 06:06:41,873 - INFO - CartScreen initialized with PIN: 2345, user_id: 2, items: 0
+2025-05-16 06:06:43,998 - INFO - Returning to MenuDashboard with updated cart_data
+2025-05-16 07:16:41,827 - DEBUG - Initialized PaymentScreen with cart_data=[], user_id=1, pin=2345, dine_option=Dine In

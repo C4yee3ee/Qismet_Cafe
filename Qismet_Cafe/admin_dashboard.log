@@ -1,0 +1,1241 @@
+2025-05-17 18:54:15,525 - DEBUG - Initializing AdminDashboard
+2025-05-17 18:54:15,526 - DEBUG - Creating widgets
+2025-05-17 18:54:15,532 - DEBUG - Menu Management button clicked
+2025-05-17 18:54:15,599 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 18:54:15,599 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 18:54:15,600 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 18:54:15,601 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 18:54:15,601 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 18:54:15,601 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 18:54:15,601 - DEBUG - Loaded 18 products
+2025-05-17 18:54:21,724 - DEBUG - Sales Report button clicked
+2025-05-17 18:54:21,777 - DEBUG - Initializing Sales Report UI
+2025-05-17 18:54:21,791 - DEBUG - Treeview packed
+2025-05-17 18:54:21,791 - DEBUG - Loading sales data
+2025-05-17 18:54:21,795 - DEBUG - Fetched 17 sales records
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 18:54:21,795 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 18:54:21,797 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 18:54:22,536 - DEBUG - Menu Management button clicked
+2025-05-17 18:54:22,551 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 18:54:22,551 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 18:54:22,551 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 18:54:22,551 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 18:54:22,551 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 18:54:22,551 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 18:54:22,553 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 18:54:22,553 - DEBUG - Loaded 18 products
+2025-05-17 18:54:35,848 - DEBUG - Sales Report button clicked
+2025-05-17 18:54:35,905 - DEBUG - Initializing Sales Report UI
+2025-05-17 18:54:35,911 - DEBUG - Treeview packed
+2025-05-17 18:54:35,911 - DEBUG - Loading sales data
+2025-05-17 18:54:35,911 - DEBUG - Fetched 17 sales records
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 18:54:35,911 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 18:54:36,578 - DEBUG - Menu Management button clicked
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 18:54:36,582 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 18:54:36,591 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 18:54:36,591 - DEBUG - Loaded 18 products
+2025-05-17 18:55:21,558 - DEBUG - Sales Report button clicked
+2025-05-17 18:55:21,629 - DEBUG - Initializing Sales Report UI
+2025-05-17 18:55:21,661 - DEBUG - Treeview packed
+2025-05-17 18:55:21,661 - DEBUG - Loading sales data
+2025-05-17 18:55:21,663 - DEBUG - Fetched 17 sales records
+2025-05-17 18:55:21,663 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 18:55:21,665 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 18:55:21,667 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 18:55:21,667 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 18:55:21,667 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 19:08:35,732 - DEBUG - Sorting by Qty
+2025-05-17 19:08:37,485 - DEBUG - Sorting by Total Sales
+2025-05-17 19:08:40,104 - DEBUG - Sorting by Date
+2025-05-17 19:08:42,633 - DEBUG - Sorting by Total Sales
+2025-05-17 19:08:43,920 - DEBUG - Sorting by Qty
+2025-05-17 19:08:47,097 - DEBUG - Searching for Search
+2025-05-17 19:08:47,146 - DEBUG - Searching for Search
+2025-05-17 19:08:48,470 - DEBUG - Searching for 
+2025-05-17 19:08:52,089 - DEBUG - Searching for C
+2025-05-17 19:08:52,151 - DEBUG - Searching for C
+2025-05-17 19:08:52,358 - DEBUG - Searching for Co
+2025-05-17 19:08:52,570 - DEBUG - Searching for Cook
+2025-05-17 19:08:52,642 - DEBUG - Searching for Cook
+2025-05-17 19:08:52,944 - DEBUG - Searching for Cooki
+2025-05-17 19:08:53,055 - DEBUG - Searching for Cookie
+2025-05-17 19:08:53,363 - DEBUG - Searching for Cookies
+2025-05-17 19:09:05,990 - DEBUG - Searching for 
+2025-05-17 19:09:07,237 - DEBUG - Searching for C
+2025-05-17 19:09:07,306 - DEBUG - Searching for C
+2025-05-17 19:09:07,474 - DEBUG - Searching for Co
+2025-05-17 19:09:07,634 - DEBUG - Searching for Coo
+2025-05-17 19:09:07,745 - DEBUG - Searching for Cook
+2025-05-17 19:09:08,108 - DEBUG - Searching for Cookie
+2025-05-17 19:09:08,232 - DEBUG - Searching for Cookie
+2025-05-17 19:09:09,533 - DEBUG - Searching for Cooki
+2025-05-17 19:09:10,752 - DEBUG - Searching for Cook
+2025-05-17 19:09:10,884 - DEBUG - Searching for Coo
+2025-05-17 19:09:11,005 - DEBUG - Searching for Co
+2025-05-17 19:09:11,133 - DEBUG - Searching for C
+2025-05-17 19:09:11,249 - DEBUG - Searching for 
+2025-05-17 19:09:11,390 - DEBUG - Searching for 
+2025-05-17 19:09:15,610 - DEBUG - Searching for 79
+2025-05-17 19:09:15,737 - DEBUG - Searching for 79
+2025-05-17 19:09:17,069 - DEBUG - Searching for 7
+2025-05-17 19:09:18,474 - DEBUG - Searching for 
+2025-05-17 19:09:19,045 - DEBUG - Searching for 9
+2025-05-17 19:09:19,528 - DEBUG - Searching for 
+2025-05-17 19:09:19,883 - DEBUG - Searching for 2
+2025-05-17 19:09:20,075 - DEBUG - Searching for 20
+2025-05-17 19:09:20,658 - DEBUG - Searching for 2
+2025-05-17 19:09:20,978 - DEBUG - Searching for 22
+2025-05-17 19:09:21,244 - DEBUG - Searching for 2
+2025-05-17 19:09:21,662 - DEBUG - Searching for 23
+2025-05-17 19:09:21,864 - DEBUG - Searching for 2
+2025-05-17 19:09:22,133 - DEBUG - Searching for 24
+2025-05-17 19:09:22,365 - DEBUG - Searching for 2
+2025-05-17 19:09:22,634 - DEBUG - Searching for 
+2025-05-17 19:09:22,791 - DEBUG - Searching for 
+2025-05-17 19:09:33,516 - DEBUG - Searching for 5
+2025-05-17 19:09:34,442 - DEBUG - Searching for 
+2025-05-17 19:09:40,051 - DEBUG - Searching for 7
+2025-05-17 19:09:40,460 - DEBUG - Searching for 72
+2025-05-17 19:09:40,544 - DEBUG - Searching for 722
+2025-05-17 19:09:44,382 - DEBUG - Searching for 72
+2025-05-17 19:09:46,206 - DEBUG - Searching for 7
+2025-05-17 19:09:46,561 - DEBUG - Searching for 
+2025-05-17 19:09:47,389 - DEBUG - Searching for 
+2025-05-17 19:09:49,252 - DEBUG - Searching for 2
+2025-05-17 19:09:49,409 - DEBUG - Searching for 20
+2025-05-17 19:09:51,260 - DEBUG - Searching for 2
+2025-05-17 19:09:51,800 - DEBUG - Searching for 
+2025-05-17 19:09:52,611 - DEBUG - Searching for 4
+2025-05-17 19:09:53,826 - DEBUG - Searching for 
+2025-05-17 19:09:54,689 - DEBUG - Searching for 8
+2025-05-17 19:09:55,958 - DEBUG - Searching for 
+2025-05-17 19:09:56,702 - DEBUG - Searching for C
+2025-05-17 19:09:56,770 - DEBUG - Searching for C
+2025-05-17 19:09:56,920 - DEBUG - Searching for Co
+2025-05-17 19:09:57,065 - DEBUG - Searching for Cok
+2025-05-17 19:09:57,349 - DEBUG - Searching for Coki
+2025-05-17 19:09:57,524 - DEBUG - Searching for Cokie
+2025-05-17 19:09:58,181 - DEBUG - Searching for Coki
+2025-05-17 19:09:58,344 - DEBUG - Searching for Cok
+2025-05-17 19:09:58,458 - DEBUG - Searching for Co
+2025-05-17 19:09:58,890 - DEBUG - Searching for Cop
+2025-05-17 19:09:59,536 - DEBUG - Searching for Co
+2025-05-17 19:09:59,695 - DEBUG - Searching for C
+2025-05-17 19:09:59,951 - DEBUG - Searching for 
+2025-05-17 19:10:01,438 - DEBUG - Searching for C
+2025-05-17 19:10:01,515 - DEBUG - Searching for C
+2025-05-17 19:10:01,705 - DEBUG - Searching for Ck
+2025-05-17 19:10:02,114 - DEBUG - Searching for Ck
+2025-05-17 19:10:02,460 - DEBUG - Searching for C
+2025-05-17 19:10:03,396 - DEBUG - Searching for Co
+2025-05-17 19:10:03,521 - DEBUG - Searching for Coo
+2025-05-17 19:10:03,664 - DEBUG - Searching for Cook
+2025-05-17 19:10:03,822 - DEBUG - Searching for Cooki
+2025-05-17 19:10:03,918 - DEBUG - Searching for Cookie
+2025-05-17 19:10:04,264 - DEBUG - Searching for Cookies
+2025-05-17 19:10:11,012 - DEBUG - Searching for 
+2025-05-17 19:10:16,181 - DEBUG - Searching for 1
+2025-05-17 19:10:16,292 - DEBUG - Searching for 16
+2025-05-17 19:10:18,633 - DEBUG - Searching for 1
+2025-05-17 19:10:18,823 - DEBUG - Searching for 
+2025-05-17 19:10:21,173 - DEBUG - Searching for 9
+2025-05-17 19:10:21,735 - DEBUG - Searching for 
+2025-05-17 19:10:22,179 - DEBUG - Searching for 1
+2025-05-17 19:10:22,273 - DEBUG - Searching for 10
+2025-05-17 19:10:23,394 - DEBUG - Searching for 1
+2025-05-17 19:10:23,978 - DEBUG - Searching for 11
+2025-05-17 19:10:24,390 - DEBUG - Searching for 1
+2025-05-17 19:10:24,848 - DEBUG - Searching for 11
+2025-05-17 19:10:25,274 - DEBUG - Searching for 1
+2025-05-17 19:10:25,623 - DEBUG - Searching for 12
+2025-05-17 19:10:26,274 - DEBUG - Searching for 1
+2025-05-17 19:10:26,765 - DEBUG - Searching for 13
+2025-05-17 19:10:27,299 - DEBUG - Searching for 1
+2025-05-17 19:10:27,537 - DEBUG - Searching for 14
+2025-05-17 19:10:27,869 - DEBUG - Searching for 1
+2025-05-17 19:10:28,078 - DEBUG - Searching for 15
+2025-05-17 19:10:28,651 - DEBUG - Searching for 16
+2025-05-17 19:10:28,818 - DEBUG - Searching for 16
+2025-05-17 19:10:29,563 - DEBUG - Searching for 1
+2025-05-17 19:10:29,959 - DEBUG - Searching for 16
+2025-05-17 19:10:30,197 - DEBUG - Searching for 1
+2025-05-17 19:10:30,429 - DEBUG - Searching for 17
+2025-05-17 19:10:31,082 - DEBUG - Searching for 1
+2025-05-17 19:10:31,303 - DEBUG - Searching for 18
+2025-05-17 19:10:32,158 - DEBUG - Searching for 1
+2025-05-17 19:10:32,506 - DEBUG - Searching for 
+2025-05-17 19:10:34,960 - DEBUG - Searching for 9
+2025-05-17 19:10:35,718 - DEBUG - Searching for 
+2025-05-17 19:10:35,971 - DEBUG - Searching for 1
+2025-05-17 19:10:36,382 - DEBUG - Searching for 
+2025-05-17 19:10:36,620 - DEBUG - Searching for 2
+2025-05-17 19:10:37,064 - DEBUG - Searching for 
+2025-05-17 19:10:38,505 - DEBUG - Searching for 3
+2025-05-17 19:10:39,078 - DEBUG - Searching for 
+2025-05-17 19:10:40,012 - DEBUG - Searching for 0
+2025-05-17 19:10:40,534 - DEBUG - Searching for 
+2025-05-17 19:10:40,865 - DEBUG - Searching for 4
+2025-05-17 19:10:41,202 - DEBUG - Searching for 
+2025-05-17 19:10:45,232 - INFO - Logged out, launching LogIn.py
+2025-05-17 20:51:39,258 - DEBUG - Initializing AdminDashboard
+2025-05-17 20:51:39,259 - DEBUG - Creating widgets
+2025-05-17 20:51:39,269 - DEBUG - Menu Management button clicked
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 20:51:39,371 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 20:51:39,372 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 20:51:39,372 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 20:51:39,372 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 20:51:39,372 - DEBUG - Loaded 18 products
+2025-05-17 20:52:34,894 - ERROR - Failed to save product: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 20:52:46,733 - INFO - Logged out, launching LogIn.py
+2025-05-17 20:54:14,732 - DEBUG - Initializing AdminDashboard
+2025-05-17 20:54:14,732 - DEBUG - Creating widgets
+2025-05-17 20:54:14,739 - DEBUG - Menu Management button clicked
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 20:54:15,048 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 20:54:15,049 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 20:54:15,050 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 20:54:15,050 - DEBUG - Loaded 18 products
+2025-05-17 20:54:24,804 - ERROR - Failed to save product: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 20:57:59,085 - ERROR - Failed to save product: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:01:26,950 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:01:26,951 - DEBUG - Creating widgets
+2025-05-17 21:01:26,957 - DEBUG - Menu Management button clicked
+2025-05-17 21:01:27,235 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:01:27,235 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:01:27,235 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:01:27,236 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:01:27,237 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:01:27,237 - DEBUG - Loaded 18 products
+2025-05-17 21:01:32,817 - ERROR - Failed to save product: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:04:25,430 - ERROR - Failed to save product: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:12:24,637 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:12:24,638 - DEBUG - Creating widgets
+2025-05-17 21:12:24,648 - DEBUG - Menu Management button clicked
+2025-05-17 21:12:24,994 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:12:24,994 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:12:24,994 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:12:24,994 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:12:24,994 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:12:24,995 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:12:24,996 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:12:24,996 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:12:24,996 - DEBUG - Loaded 18 products
+2025-05-17 21:12:32,049 - DEBUG - Category ID 3 for Coffee
+2025-05-17 21:12:32,050 - ERROR - Database error: Transaction already in progress
+2025-05-17 21:12:46,422 - DEBUG - Category ID 1 for Pastries
+2025-05-17 21:12:46,423 - ERROR - Database error: Transaction already in progress
+2025-05-17 21:14:55,681 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:14:55,681 - DEBUG - Creating widgets
+2025-05-17 21:14:55,722 - DEBUG - Menu Management button clicked
+2025-05-17 21:14:56,050 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:14:56,050 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:14:56,051 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:14:56,052 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:14:56,052 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:14:56,052 - DEBUG - Loaded 18 products
+2025-05-17 21:15:01,478 - DEBUG - Category ID 3 for Coffee
+2025-05-17 21:15:01,480 - ERROR - Database error: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:17:34,805 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:17:34,805 - DEBUG - Creating widgets
+2025-05-17 21:17:34,818 - DEBUG - Menu Management button clicked
+2025-05-17 21:17:35,013 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:17:35,014 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:17:35,014 - DEBUG - Loaded 18 products
+2025-05-17 21:17:40,885 - DEBUG - Category ID 3 for Coffee
+2025-05-17 21:17:40,891 - ERROR - Database error: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:18:06,872 - DEBUG - Category ID 3 for Coffee
+2025-05-17 21:18:06,876 - ERROR - Database error: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:19:08,275 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:19:08,275 - DEBUG - Creating widgets
+2025-05-17 21:19:08,282 - DEBUG - Menu Management button clicked
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:19:08,373 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:19:08,373 - DEBUG - Loaded 18 products
+2025-05-17 21:19:10,727 - ERROR - Failed to save product: 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`qismet_cafe`.`orderitems`, CONSTRAINT `orderitems_ibfk_2` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`menu_id`))
+2025-05-17 21:31:22,580 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:31:22,580 - DEBUG - Creating widgets
+2025-05-17 21:31:22,587 - DEBUG - Menu Management button clicked
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:31:22,736 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:31:22,737 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:31:22,737 - DEBUG - Loaded 18 products
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product American1 with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:31:27,901 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:31:27,902 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:31:27,902 - DEBUG - Loaded 18 products
+2025-05-17 21:31:28,065 - DEBUG - Saved product: American1 with image americano.jpg
+2025-05-17 21:31:36,957 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:31:36,957 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:31:36,958 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:31:36,958 - DEBUG - Loaded 18 products
+2025-05-17 21:31:37,111 - DEBUG - Saved product: Americano with image americano.jpg
+2025-05-17 21:34:19,560 - DEBUG - Sales Report button clicked
+2025-05-17 21:34:19,611 - DEBUG - Initializing Sales Report UI
+2025-05-17 21:34:19,619 - DEBUG - Treeview packed
+2025-05-17 21:34:19,619 - DEBUG - Loading sales data
+2025-05-17 21:34:19,623 - DEBUG - Fetched 23 sales records
+2025-05-17 21:34:19,623 - DEBUG - Inserting sale: {'report_id': 23, 'date': '2025-05-17', 'item': 'Cookies', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.20'), 'total_sales': Decimal('67.20')}
+2025-05-17 21:34:19,623 - DEBUG - Inserting sale: {'report_id': 18, 'date': '2025-05-17', 'item': 'Muffins', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('8.40'), 'total_sales': Decimal('78.40')}
+2025-05-17 21:34:19,623 - DEBUG - Inserting sale: {'report_id': 19, 'date': '2025-05-17', 'item': 'Macchiato', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:34:19,623 - DEBUG - Inserting sale: {'report_id': 20, 'date': '2025-05-17', 'item': 'Mocha', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 21:34:19,623 - DEBUG - Inserting sale: {'report_id': 21, 'date': '2025-05-17', 'item': 'Matcha Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 22, 'date': '2025-05-17', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 2, 'vat': Decimal('28.80'), 'total_sales': Decimal('268.80')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 21:34:19,624 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 21:34:19,625 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 21:34:19,625 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 21:34:19,625 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 21:34:19,625 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 21:34:19,625 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 21:34:19,625 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 21:34:21,792 - DEBUG - Menu Management button clicked
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:34:21,806 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:34:21,807 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:34:21,807 - DEBUG - Loaded 18 products
+2025-05-17 21:35:03,737 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:35:03,737 - DEBUG - Creating widgets
+2025-05-17 21:35:03,743 - DEBUG - Menu Management button clicked
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:35:03,803 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:35:03,805 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:35:03,805 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:35:03,805 - DEBUG - Loaded 18 products
+2025-05-17 21:35:05,312 - DEBUG - Sales Report button clicked
+2025-05-17 21:35:05,354 - DEBUG - Initializing Sales Report UI
+2025-05-17 21:35:05,363 - DEBUG - Treeview packed
+2025-05-17 21:35:05,363 - DEBUG - Loading sales data
+2025-05-17 21:35:05,365 - DEBUG - Fetched 23 sales records
+2025-05-17 21:35:05,365 - DEBUG - Inserting sale: {'report_id': 23, 'date': '2025-05-17', 'item': 'Cookies', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.20'), 'total_sales': Decimal('67.20')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 18, 'date': '2025-05-17', 'item': 'Muffins', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('8.40'), 'total_sales': Decimal('78.40')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 19, 'date': '2025-05-17', 'item': 'Macchiato', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 20, 'date': '2025-05-17', 'item': 'Mocha', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 21, 'date': '2025-05-17', 'item': 'Matcha Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 22, 'date': '2025-05-17', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 2, 'vat': Decimal('28.80'), 'total_sales': Decimal('268.80')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 21:35:05,366 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 21:35:05,367 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 21:35:16,411 - DEBUG - Menu Management button clicked
+2025-05-17 21:35:16,426 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:35:16,426 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:35:16,426 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:35:16,426 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:35:16,426 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:35:16,427 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:35:16,428 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:35:16,428 - DEBUG - Loaded 18 products
+2025-05-17 21:35:31,352 - ERROR - Application failed to start: [Errno 22] Invalid argument
+2025-05-17 21:35:47,992 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:35:47,993 - DEBUG - Creating widgets
+2025-05-17 21:35:47,997 - DEBUG - Menu Management button clicked
+2025-05-17 21:35:48,069 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:35:48,069 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:35:48,069 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:35:48,069 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:35:48,069 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:35:48,070 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:35:48,070 - DEBUG - Loaded 18 products
+2025-05-17 21:36:02,102 - ERROR - Application failed to start: [Errno 22] Invalid argument
+2025-05-17 21:37:22,777 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:37:22,778 - DEBUG - Creating widgets
+2025-05-17 21:37:22,780 - DEBUG - Menu Management button clicked
+2025-05-17 21:37:22,842 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:37:22,842 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:37:22,842 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:37:22,843 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:37:22,843 - DEBUG - Loaded 18 products
+2025-05-17 21:37:25,316 - ERROR - Application failed to start: [Errno 22] Invalid argument
+2025-05-17 21:37:42,449 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:37:42,449 - DEBUG - Creating widgets
+2025-05-17 21:37:42,455 - DEBUG - Menu Management button clicked
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:37:42,512 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:37:42,513 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:37:42,513 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:37:42,513 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:37:42,513 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:37:42,513 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:37:42,513 - DEBUG - Loaded 18 products
+2025-05-17 21:37:50,631 - ERROR - Application failed to start: [Errno 22] Invalid argument
+2025-05-17 21:38:17,549 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:38:17,549 - DEBUG - Creating widgets
+2025-05-17 21:38:17,555 - DEBUG - Menu Management button clicked
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:38:17,614 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:38:17,615 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:38:17,615 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:38:17,615 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:38:17,615 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:38:17,615 - DEBUG - Loaded 18 products
+2025-05-17 21:38:19,707 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:38:19,708 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:38:19,708 - DEBUG - Loaded 18 products
+2025-05-17 21:38:19,812 - DEBUG - Product Cappuccino hidden
+2025-05-17 21:38:21,195 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:38:21,196 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:38:21,196 - DEBUG - Loaded 18 products
+2025-05-17 21:38:21,295 - DEBUG - Product Cappuccino unhidden
+2025-05-17 21:38:26,823 - ERROR - Application failed to start: [Errno 22] Invalid argument
+2025-05-17 21:38:41,787 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:38:41,787 - DEBUG - Creating widgets
+2025-05-17 21:38:41,790 - DEBUG - Menu Management button clicked
+2025-05-17 21:38:41,852 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:38:41,852 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:38:41,852 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:38:41,853 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:38:41,854 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:38:41,854 - DEBUG - Loaded 18 products
+2025-05-17 21:38:50,629 - ERROR - Application failed to start: [Errno 22] Invalid argument
+2025-05-17 21:39:01,071 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:39:01,071 - DEBUG - Creating widgets
+2025-05-17 21:39:01,078 - DEBUG - Menu Management button clicked
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:39:01,135 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:39:01,136 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:39:01,136 - DEBUG - Loaded 18 products
+2025-05-17 21:42:39,949 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:42:39,949 - DEBUG - Creating widgets
+2025-05-17 21:42:39,952 - DEBUG - Menu Management button clicked
+2025-05-17 21:42:40,011 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:42:40,012 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:42:40,012 - DEBUG - Loaded 18 products
+2025-05-17 21:42:45,192 - ERROR - Unexpected error while saving product Cappuccin1: Python type tuple cannot be converted
+Traceback (most recent call last):
+  File "C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\MenuAndSales.py", line 333, in save
+    cursor.execute("SELECT menu_id, size FROM menu WHERE menu_id IN %s",
+  File "C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 328, in execute
+    prepared = self._connection.prepare_for_mysql(params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 943, in prepare_for_mysql
+    result = self._cmysql.convert_to_mysql(*params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_mysql_connector.MySQLInterfaceError: Python type tuple cannot be converted
+2025-05-17 21:42:56,351 - ERROR - Unexpected error while saving product Cappuccin1: Python type tuple cannot be converted
+Traceback (most recent call last):
+  File "C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\MenuAndSales.py", line 333, in save
+    cursor.execute("SELECT menu_id, size FROM menu WHERE menu_id IN %s",
+  File "C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Lib\site-packages\mysql\connector\cursor_cext.py", line 328, in execute
+    prepared = self._connection.prepare_for_mysql(params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\Desktop\School Files\PythonProjects\Qismet_Cafe\.venv\Lib\site-packages\mysql\connector\connection_cext.py", line 943, in prepare_for_mysql
+    result = self._cmysql.convert_to_mysql(*params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_mysql_connector.MySQLInterfaceError: Python type tuple cannot be converted
+2025-05-17 21:44:52,701 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:44:52,701 - DEBUG - Creating widgets
+2025-05-17 21:44:52,705 - DEBUG - Menu Management button clicked
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:44:52,761 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:44:52,762 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:44:52,762 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:44:52,762 - DEBUG - Loaded 18 products
+2025-05-17 21:44:58,465 - DEBUG - Updated Cappuccin1 size SMALL with menu_id 7
+2025-05-17 21:44:58,465 - DEBUG - Updated Cappuccin1 size MEDIUM with menu_id 8
+2025-05-17 21:44:58,465 - DEBUG - Updated Cappuccin1 size LARGE with menu_id 9
+2025-05-17 21:44:58,469 - DEBUG - Loaded product Cappuccin1 with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:44:58,470 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:44:58,470 - DEBUG - Loaded 18 products
+2025-05-17 21:44:58,635 - DEBUG - Saved product: Cappuccin1 with image capuccino.jpg
+2025-05-17 21:45:11,584 - INFO - Logged out, launching LogIn.py
+2025-05-17 21:45:35,210 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:45:35,210 - DEBUG - Creating widgets
+2025-05-17 21:45:35,215 - DEBUG - Menu Management button clicked
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Cappuccin1 with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:45:35,279 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:45:35,279 - DEBUG - Loaded 18 products
+2025-05-17 21:45:39,873 - DEBUG - Updated Cappuccino size SMALL with menu_id 7
+2025-05-17 21:45:39,873 - DEBUG - Updated Cappuccino size MEDIUM with menu_id 8
+2025-05-17 21:45:39,873 - DEBUG - Updated Cappuccino size LARGE with menu_id 9
+2025-05-17 21:45:39,877 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:45:39,877 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:45:39,877 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:45:39,877 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:45:39,878 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:45:39,878 - DEBUG - Loaded 18 products
+2025-05-17 21:45:40,043 - DEBUG - Saved product: Cappuccino with image capuccino.jpg
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:45:45,046 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:45:45,047 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:45:45,047 - DEBUG - Loaded 18 products
+2025-05-17 21:45:45,149 - DEBUG - Product Cappuccino hidden
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:45:45,921 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:45:45,921 - DEBUG - Loaded 18 products
+2025-05-17 21:45:46,039 - DEBUG - Product Cappuccino unhidden
+2025-05-17 21:45:47,321 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:45:47,321 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:45:47,321 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:45:47,322 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:45:47,323 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:45:47,323 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:45:47,323 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:45:47,323 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:45:47,323 - DEBUG - Loaded 18 products
+2025-05-17 21:45:47,454 - DEBUG - Product Cappuccino hidden
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:45:48,210 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:45:48,211 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:45:48,211 - DEBUG - Loaded 18 products
+2025-05-17 21:45:48,314 - DEBUG - Product Cappuccino unhidden
+2025-05-17 21:54:50,644 - DEBUG - Initializing AdminDashboard
+2025-05-17 21:54:50,644 - DEBUG - Creating widgets
+2025-05-17 21:54:50,655 - DEBUG - Menu Management button clicked
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:54:50,744 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:54:50,749 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:54:50,749 - DEBUG - Loaded 18 products
+2025-05-17 21:55:25,695 - DEBUG - Updated Cappuccino1 size SMALL with menu_id 7
+2025-05-17 21:55:25,695 - DEBUG - Updated Cappuccino1 size MEDIUM with menu_id 8
+2025-05-17 21:55:25,695 - DEBUG - Updated Cappuccino1 size LARGE with menu_id 9
+2025-05-17 21:55:25,710 - DEBUG - Loaded product Cappuccino1 with flavors: []
+2025-05-17 21:55:25,710 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:55:25,710 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:55:25,710 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:55:25,711 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:55:25,711 - DEBUG - Loaded 18 products
+2025-05-17 21:55:25,977 - DEBUG - Saved product: Cappuccino1 with image capuccino.jpg
+2025-05-17 21:55:35,683 - DEBUG - Loaded product Cappuccino1 with flavors: []
+2025-05-17 21:55:35,683 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:55:35,683 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:55:35,683 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:55:35,684 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:55:35,684 - DEBUG - Loaded 18 products
+2025-05-17 21:55:35,832 - DEBUG - Product Macchiato hidden
+2025-05-17 21:56:36,034 - DEBUG - Inserted new pastry Cake
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Cappuccino1 with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 21:56:36,047 - DEBUG - Loaded product Cake with flavors: ['Chocolate']
+2025-05-17 21:56:36,047 - DEBUG - Loaded 19 products
+2025-05-17 21:56:36,165 - DEBUG - Saved product: Cake with image images.jpg
+2025-05-17 21:56:57,907 - DEBUG - Sales Report button clicked
+2025-05-17 21:56:57,993 - DEBUG - Initializing Sales Report UI
+2025-05-17 21:56:58,005 - DEBUG - Treeview packed
+2025-05-17 21:56:58,005 - DEBUG - Loading sales data
+2025-05-17 21:56:58,005 - DEBUG - Fetched 23 sales records
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 23, 'date': '2025-05-17', 'item': 'Cookies', 'total_orders': 2, 'quantity': 3, 'vat': Decimal('21.60'), 'total_sales': Decimal('201.60')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 18, 'date': '2025-05-17', 'item': 'Muffins', 'total_orders': 2, 'quantity': 3, 'vat': Decimal('25.20'), 'total_sales': Decimal('235.20')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 19, 'date': '2025-05-17', 'item': 'Macchiato', 'total_orders': 2, 'quantity': 3, 'vat': Decimal('48.00'), 'total_sales': Decimal('448.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 20, 'date': '2025-05-17', 'item': 'Mocha', 'total_orders': 3, 'quantity': 3, 'vat': Decimal('49.20'), 'total_sales': Decimal('459.20')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 21, 'date': '2025-05-17', 'item': 'Matcha Latte', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 22, 'date': '2025-05-17', 'item': 'Cappuccino', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('64.80'), 'total_sales': Decimal('604.80')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 21:56:58,005 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 21:57:29,475 - DEBUG - Sorting by Qty
+2025-05-17 21:57:32,572 - DEBUG - Sorting by Total Sales
+2025-05-17 21:57:36,689 - DEBUG - Searching for Searc
+2025-05-17 21:57:37,029 - DEBUG - Searching for Sear
+2025-05-17 21:57:37,173 - DEBUG - Searching for Sea
+2025-05-17 21:57:37,304 - DEBUG - Searching for Se
+2025-05-17 21:57:37,475 - DEBUG - Searching for S
+2025-05-17 21:57:37,614 - DEBUG - Searching for 
+2025-05-17 21:57:38,396 - DEBUG - Searching for 
+2025-05-17 21:57:38,800 - DEBUG - Searching for m
+2025-05-17 21:57:38,958 - DEBUG - Searching for mo
+2025-05-17 21:57:39,334 - DEBUG - Searching for moc
+2025-05-17 21:57:39,398 - DEBUG - Searching for moch
+2025-05-17 21:57:39,633 - DEBUG - Searching for mocha
+2025-05-17 21:57:44,024 - DEBUG - Searching for moch
+2025-05-17 21:57:44,174 - DEBUG - Searching for moc
+2025-05-17 21:57:44,293 - DEBUG - Searching for mo
+2025-05-17 21:57:44,440 - DEBUG - Searching for m
+2025-05-17 21:57:44,724 - DEBUG - Searching for 
+2025-05-17 21:57:44,863 - DEBUG - Searching for 
+2025-05-17 21:57:48,961 - DEBUG - Searching for 9
+2025-05-17 21:57:52,722 - DEBUG - Searching for 
+2025-05-17 21:57:52,854 - DEBUG - Searching for 
+2025-05-17 21:57:55,986 - INFO - Logged out, launching LogIn.py
+2025-05-17 22:02:08,815 - DEBUG - Initializing AdminDashboard
+2025-05-17 22:02:08,815 - DEBUG - Creating widgets
+2025-05-17 22:02:08,819 - DEBUG - Menu Management button clicked
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Cappuccino1 with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 22:02:08,908 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 22:02:08,909 - DEBUG - Loaded product Cake with flavors: ['Chocolate']
+2025-05-17 22:02:08,909 - DEBUG - Loaded 19 products
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Cappuccino1 with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 22:02:11,215 - DEBUG - Loaded product Cake with flavors: ['Chocolate']
+2025-05-17 22:02:11,215 - DEBUG - Loaded 19 products
+2025-05-17 22:02:11,482 - DEBUG - Product Macchiato unhidden
+2025-05-17 22:02:22,975 - DEBUG - Updated Cappuccino size SMALL with menu_id 7
+2025-05-17 22:02:22,975 - DEBUG - Updated Cappuccino size MEDIUM with menu_id 8
+2025-05-17 22:02:22,975 - DEBUG - Updated Cappuccino size LARGE with menu_id 9
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Cappuccino with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Macchiato with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Caramel Dolce Latte with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Mocha with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Espresso with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Americano with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Oreo Milkshake with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Matcha Latte with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Chai Latte with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Banana Milkshake with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Strawberry Shake with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Iced Lemon Tea with flavors: []
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Cookies with flavors: ['Chocolate Chip', 'Oatmeal Raisin', 'Double Chocolate']
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Muffins with flavors: ['Blueberry', 'Banana Nut', 'Chocolate']
+2025-05-17 22:02:22,986 - DEBUG - Loaded product Croissant with flavors: ['Plain', 'Chocolate', 'Almond']
+2025-05-17 22:02:22,988 - DEBUG - Loaded product Donut with flavors: ['Glazed', 'Chocolate', 'Strawberry']
+2025-05-17 22:02:22,988 - DEBUG - Loaded product Brownie with flavors: ['Classic', 'Walnut', 'Caramel']
+2025-05-17 22:02:22,988 - DEBUG - Loaded product Cheesecake with flavors: ['New York', 'Blueberry', 'Mango']
+2025-05-17 22:02:22,988 - DEBUG - Loaded product Cake with flavors: ['Chocolate']
+2025-05-17 22:02:22,988 - DEBUG - Loaded 19 products
+2025-05-17 22:02:23,283 - DEBUG - Saved product: Cappuccino with image capuccino.jpg
+2025-05-17 22:02:33,238 - DEBUG - Sales Report button clicked
+2025-05-17 22:02:33,336 - DEBUG - Initializing Sales Report UI
+2025-05-17 22:02:33,365 - DEBUG - Treeview packed
+2025-05-17 22:02:33,365 - DEBUG - Loading sales data
+2025-05-17 22:02:33,371 - DEBUG - Fetched 23 sales records
+2025-05-17 22:02:33,371 - DEBUG - Inserting sale: {'report_id': 23, 'date': '2025-05-17', 'item': 'Cookies', 'total_orders': 2, 'quantity': 3, 'vat': Decimal('21.60'), 'total_sales': Decimal('201.60')}
+2025-05-17 22:02:33,371 - DEBUG - Inserting sale: {'report_id': 18, 'date': '2025-05-17', 'item': 'Muffins', 'total_orders': 2, 'quantity': 3, 'vat': Decimal('25.20'), 'total_sales': Decimal('235.20')}
+2025-05-17 22:02:33,371 - DEBUG - Inserting sale: {'report_id': 19, 'date': '2025-05-17', 'item': 'Macchiato', 'total_orders': 2, 'quantity': 3, 'vat': Decimal('48.00'), 'total_sales': Decimal('448.00')}
+2025-05-17 22:02:33,371 - DEBUG - Inserting sale: {'report_id': 20, 'date': '2025-05-17', 'item': 'Mocha', 'total_orders': 3, 'quantity': 3, 'vat': Decimal('49.20'), 'total_sales': Decimal('459.20')}
+2025-05-17 22:02:33,371 - DEBUG - Inserting sale: {'report_id': 21, 'date': '2025-05-17', 'item': 'Matcha Latte', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 22:02:33,372 - DEBUG - Inserting sale: {'report_id': 22, 'date': '2025-05-17', 'item': 'Cappuccino', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('64.80'), 'total_sales': Decimal('604.80')}
+2025-05-17 22:02:33,372 - DEBUG - Inserting sale: {'report_id': 17, 'date': '2025-05-16', 'item': 'Cappuccino', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('14.40'), 'total_sales': Decimal('134.40')}
+2025-05-17 22:02:33,372 - DEBUG - Inserting sale: {'report_id': 16, 'date': '2025-05-16', 'item': 'Espresso', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('12.00'), 'total_sales': Decimal('112.00')}
+2025-05-17 22:02:33,372 - DEBUG - Inserting sale: {'report_id': 15, 'date': '2025-05-16', 'item': 'Caramel Dolce Latte', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('18.00'), 'total_sales': Decimal('168.00')}
+2025-05-17 22:02:33,372 - DEBUG - Inserting sale: {'report_id': 14, 'date': '2025-05-16', 'item': 'Strawberry Shake', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('13.20'), 'total_sales': Decimal('123.20')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 13, 'date': '2025-05-16', 'item': 'Brownie', 'total_orders': 1, 'quantity': 1, 'vat': Decimal('7.80'), 'total_sales': Decimal('72.80')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 12, 'date': '2025-05-16', 'item': 'Cookies', 'total_orders': 2, 'quantity': 5, 'vat': Decimal('36.00'), 'total_sales': Decimal('336.00')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 11, 'date': '2025-05-16', 'item': 'Oreo Milkshake', 'total_orders': 2, 'quantity': 2, 'vat': Decimal('31.20'), 'total_sales': Decimal('291.20')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 10, 'date': '2025-05-15', 'item': 'Americano', 'total_orders': 3, 'quantity': 8, 'vat': Decimal('105.60'), 'total_sales': Decimal('880.00')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 9, 'date': '2025-05-14', 'item': 'Brownie', 'total_orders': 5, 'quantity': 20, 'vat': Decimal('156.00'), 'total_sales': Decimal('1300.00')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 8, 'date': '2025-05-13', 'item': 'Cookies', 'total_orders': 6, 'quantity': 12, 'vat': Decimal('86.40'), 'total_sales': Decimal('720.00')}
+2025-05-17 22:02:33,373 - DEBUG - Inserting sale: {'report_id': 7, 'date': '2025-05-12', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 10, 'vat': Decimal('144.00'), 'total_sales': Decimal('1200.00')}
+2025-05-17 22:02:33,374 - DEBUG - Inserting sale: {'report_id': 6, 'date': '2025-05-11', 'item': 'Espresso', 'total_orders': 3, 'quantity': 7, 'vat': Decimal('67.20'), 'total_sales': Decimal('560.00')}
+2025-05-17 22:02:33,374 - DEBUG - Inserting sale: {'report_id': 5, 'date': '2025-05-05', 'item': 'Americano', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('52.80'), 'total_sales': Decimal('440.00')}
+2025-05-17 22:02:33,374 - DEBUG - Inserting sale: {'report_id': 4, 'date': '2025-05-04', 'item': 'Brownie', 'total_orders': 5, 'quantity': 10, 'vat': Decimal('78.00'), 'total_sales': Decimal('650.00')}
+2025-05-17 22:02:33,374 - DEBUG - Inserting sale: {'report_id': 3, 'date': '2025-05-03', 'item': 'Cookies', 'total_orders': 6, 'quantity': 7, 'vat': Decimal('50.40'), 'total_sales': Decimal('420.00')}
+2025-05-17 22:02:33,374 - DEBUG - Inserting sale: {'report_id': 2, 'date': '2025-05-02', 'item': 'Matcha Latte', 'total_orders': 4, 'quantity': 5, 'vat': Decimal('72.00'), 'total_sales': Decimal('600.00')}
+2025-05-17 22:02:33,374 - DEBUG - Inserting sale: {'report_id': 1, 'date': '2025-05-01', 'item': 'Espresso', 'total_orders': 3, 'quantity': 4, 'vat': Decimal('38.40'), 'total_sales': Decimal('320.00')}
+2025-05-17 22:02:35,993 - INFO - Logged out, launching LogIn.py
